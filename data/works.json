@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "城市建筑摄影系列",
+    "category": "image",
+    "subcategory": "摄像",
+    "type": "image",
+    "description": "城市建筑线条与光影的探索",
+    "preview": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    "cloudUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&q=90",
+    "createdAt": 1776605983723,
+    "updatedAt": 1776605983723
+  },
+  {
+    "id": "2",
+    "title": "纪录片《手艺人生》",
+    "category": "video",
+    "subcategory": "导演",
+    "type": "video",
+    "description": "记录传统手工艺人的坚守与传承 - 请粘贴您的B站/YouTube视频链接",
+    "preview": "",
+    "cloudUrl": "",
+    "createdAt": 1776605983723,
+    "updatedAt": 1776605983723
+  },
+  {
+    "id": "3",
+    "title": "环保主题海报设计",
+    "category": "image",
+    "subcategory": "海报",
+    "type": "image",
+    "description": "呼吁保护海洋生态的视觉设计",
+    "preview": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800&q=80",
+    "cloudUrl": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=1920&q=90",
+    "createdAt": 1776605983723,
+    "updatedAt": 1776605983723
+  },
+  {
+    "id": "4",
+    "title": "深度报道《数字时代的乡村》",
+    "category": "text",
+    "subcategory": "文章",
+    "type": "document",
+    "description": "探讨数字化转型对乡村发展的影响 - 请粘贴微信公众号文章链接",
+    "preview": "",
+    "cloudUrl": "",
+    "createdAt": 1776605983723,
+    "updatedAt": 1776605983723
+  },
+  {
+    "id": "5",
+    "title": "国际摄影大赛金奖",
+    "category": "award",
+    "subcategory": "获奖作品",
+    "type": "image",
+    "description": "2025国际自然摄影大赛金奖作品",
+    "preview": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&q=80",
+    "cloudUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1920&q=90",
+    "createdAt": 1776605983723,
+    "updatedAt": 1776605983723
+  }
+]
